@@ -1,0 +1,47 @@
+{
+    "name": "digicademy/endpt",
+    "type": "typo3-cms-extension",
+    "description": "SPAQRL, SRU, and OAI-PMH endpoints for TYPO3",
+    "authors": [
+        {
+            "name": "Jonatan Jalle Steller",
+            "email": "jonatan.steller@adwmainz.de",
+            "role": "Developer",
+            "homepage": "https://www.adwmainz.de"
+        },
+        {
+            "name": "ENDPT contributors"
+        }
+    ],
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://extensions.typo3.org/extension/endpt",
+    "support": {
+        "issues": "https://github.com/digicademy/endpt/issues",
+        "source": "https://github.com/digicademy/endpt",
+        "docs": "https://digicademy.github.io/endpt"
+    },
+    "keywords": [
+        "TYPO3",
+        "Endpoints",
+        "SPARQL",
+        "RDF",
+        "SRU",
+        "CQL",
+        "OAI-PMH",
+        "XML",
+        "Academic"
+    ],
+    "require": {
+        "typo3/cms-core": "^13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Digicademy\\ENDPT\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "endpt"
+        }
+    }
+}

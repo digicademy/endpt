@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: ENDPT
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jonatan Jalle
+    family-names: Steller
+    email: jonatan.steller@adwmainz.de
+    affiliation: Academy of Sciences and Literature Mainz
+    orcid: 'https://orcid.org/0000-0002-5101-5275'
+  - name: "ENDPT contributors"
+repository-code: >-
+  https://github.com/digicademy/endpt
+abstract: >-
+  This extension provides a way to add SPARQL, SRU, and
+  OAI-PMH support to TYPO3. SRU (used as part of the Clarin
+  federated content search) and OAI-PMH (used by several
+  other academic infrastructure providers) are organised
+  via templates with a few configuration options. SPARQL,
+  in the other hand, requires existing RDF serialisations
+  and a running Oxigraph to add the data to. The extension
+  integrates with, but is not exclusively a part of the
+  Cultural Heritage Framework (CHF), a research software
+  suite that helps you build web apps to produce and
+  publish data in the humanities. The CHF component CHF
+  Container includes a working Oxigraph set-up as used by
+  this extension.
+keywords:
+  - TYPO3
+  - Endpoints
+  - SPARQL
+  - RDF
+  - SRU
+  - CQL
+  - OAI-PMH
+  - XML
+  - Academic
+license: GPL 3
+version: 0.1.0
+date-released: '2024-08-02'
