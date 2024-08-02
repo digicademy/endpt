@@ -2,7 +2,7 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title'          => 'ENDPT',
-    'description'    => 'SPAQRL, SRU, and OAI-PMH endpoints for TYPO3',
+    'description'    => 'SPARQL, SRU, and OAI-PMH endpoints for TYPO3',
     'category'       => 'misc',
     'author'         => 'Jonatan Jalle Steller',
     'author_email'   => 'jonatan.steller@adwmainz.de',

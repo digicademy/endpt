@@ -1,7 +1,7 @@
 {
     "name": "digicademy/endpt",
     "type": "typo3-cms-extension",
-    "description": "SPAQRL, SRU, and OAI-PMH endpoints for TYPO3",
+    "description": "SPARQL, SRU, and OAI-PMH endpoints for TYPO3",
     "authors": [
         {
             "name": "Jonatan Jalle Steller",
