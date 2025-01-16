@@ -27,17 +27,3 @@ includes a working Oxigraph set-up as used by this extension.
 :Repository:  https://github.com/digicademy/endpt
 :Read online: https://digicademy.github.io/endpt
 :TER:         https://extensions.typo3.org/extension/endpt
-
-Roadmap
-=======
-
-This is a pre-release version. The following steps are required for the software to move out of beta:
-
-- Implement Oxigraph ingest for SPARQL
-- Add basic SRU support via templates and routing
-- Add API documentation
-
-**Beyond 2.0.0**
-
-- Expand SRU support
-- Add OAI-PMH via templates and routing
