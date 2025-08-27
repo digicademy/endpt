@@ -1,5 +1,6 @@
 {
     "name": "digicademy/endpt",
+    "version": "2.0.0",
     "type": "typo3-cms-extension",
     "description": "SPARQL, SRU, and OAI-PMH endpoints for TYPO3",
     "authors": [
